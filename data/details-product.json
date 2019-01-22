@@ -1,0 +1,17 @@
+{
+  "products":[
+    {
+      "propic":"../../static/image/cup01.jpeg"
+    },
+    {
+      "propic":"../../static/image/cup02.jpeg"
+    },
+    {
+      "propic":"../../static/image/cup04.jpeg"
+    },
+    {
+      "propic":"../../static/image/cup05.jpeg"
+    }
+  ],
+  "item":{}
+}

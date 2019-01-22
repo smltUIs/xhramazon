@@ -1,0 +1,53 @@
+{
+    "userid": "001",
+    "totalPrice":"0.0",
+    "checked": "true",
+    "shops": [
+      {
+        "shopname": "Jdusjs葡萄酒专卖店",
+        "shopTotalPrice": "0.0",
+        "checked": "true",
+        "products":[
+          {
+            "title": "Louis Jadot路易亚都第黑皮诺红葡萄酒",
+            "pic": "../../../static/image/water01.png",
+            "color": "酒红色",
+            "price" : 500.0,
+            "qal" : 1.0,
+            "checked" : true
+          },
+          {
+            "title": "Louis Jadot路易亚都第黑皮诺红葡萄酒",
+            "pic": "../../../static/image/water02.png",
+            "color": "酒红色",
+            "price" : 2000.0,
+            "qal" : 2.0,
+            "checked" : true
+          }
+        ]
+      },
+      {
+        "shopname": "sefgg红酒专卖店",
+        "shopTotalPrice": "0.0",
+        "checked": "true",
+        "products":[
+          {
+            "title": "Louis Jadot路易亚都第黑皮诺红葡萄酒",
+            "pic": "../../../static/image/water03.png",
+            "color": "酒红色",
+            "price" : 1000.0,
+            "qal" : 2.0,
+            "checked" : true
+          },
+          {
+            "title": "Louis Jadot路易亚都第黑皮诺红葡萄酒",
+            "pic": "../../../static/image/water04.png",
+            "color": "酒红色",
+            "price" : 1000.0,
+            "qal" : 3.0,
+            "checked" : true
+          }
+        ]
+      }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+  "books":[
+    {
+      "title":"精挑好书,售价9.9元,只需9.9",
+      "price":"￥9.90-￥192.00",
+      "time":"距结束23.34.22",
+      "pic":"../../../static/image/con01.png"
+    },
+    {
+      "title":"精挑好书,售价8.8元,只需9.9",
+      "price":"￥9.90-￥192.00",
+      "time":"距结束23.34.22",
+      "pic":"../../../static/image/con02.png"
+    },
+    {
+      "title":"精挑好书,售价7.7元,只需9.9",
+      "price":"￥9.90-￥192.00",
+      "time":"距结束23.34.22",
+      "pic":"../../../static/image/con03.png"
+    },
+    {
+      "title":"精挑好书,售价6.6元,只需9.9",
+      "price":"￥9.90-￥192.00",
+      "time":"距结束23.34.22",
+      "pic":"../../../static/image/con04.png"
+    }
+  ],
+  "timepro": [
+    {
+        "pic": "../../../static/image/sixth01.jpeg",
+        "nowprice":"269.00",
+        "oldprice": "399.00",
+        "endtime": "距结束23.33.10"
+    },
+    {
+      "pic": "../../../static/image/sixth02.jpeg",
+      "nowprice":"269.00",
+      "oldprice": "399.00",
+      "endtime": "距结束23.33.10"
+    },
+    {
+      "pic": "../../../static/image/sixth03.jpeg",
+      "nowprice":"269.00",
+      "oldprice": "399.00",
+      "endtime": "距结束23.33.10"
+    },
+    {
+      "pic": "../../../static/image/sixth04.jpeg",
+      "nowprice":"269.00",
+      "oldprice": "399.00",
+      "endtime": "距结束23.33.10"
+    },
+    {
+      "pic": "../../../static/image/sixth05.jpeg",
+      "nowprice":"269.00",
+      "oldprice": "399.00",
+      "endtime": "距结束23.33.10"
+    },
+    {
+      "pic": "../../../static/image/sixth06.jpeg",
+      "nowprice":"269.00",
+      "oldprice": "399.00",
+      "endtime": "距结束23.33.10"
+    },
+    {
+      "pic": "../../../static/image/sixth07.jpeg",
+      "nowprice":"269.00",
+      "oldprice": "399.00",
+      "endtime": "距结束23.33.10"
+    },
+    {
+      "pic": "../../../static/image/sixth08.jpeg",
+      "nowprice":"269.00",
+      "oldprice": "399.00",
+      "endtime": "距结束23.33.10"
+    },
+    {
+      "pic": "../../../static/image/sixth09.jpeg",
+      "nowprice":"269.00",
+      "oldprice": "399.00",
+      "endtime": "距结束23.33.10"
+    },
+    {
+      "pic": "../../../static/image/sixth10.jpeg",
+      "nowprice":"269.00",
+      "oldprice": "399.00",
+      "endtime": "距结束23.33.10"
+    }
+  ],
+  "store": [
+    {
+      "total": "hello",
+      "logo": [
+        {
+          "name": "Kindle商店",
+          "piclogo": "../../../static/image/tip1.png"
+        },
+        {
+          "name": "海外购",
+          "piclogo": "../../../static/image/tip2.png"
+        },
+        {
+          "name": "Prime会员",
+          "piclogo": "../../../static/image/tip3.png"
+        },
+        {
+          "name": "精品超市",
+          "piclogo": "../../../static/image/tip4.png"
+        },
+        {
+          "name": "图书",
+          "piclogo": "../../../static/image/tip5.png"
+        }
+      ]
+    },
+    {
+      "logo": [
+        {
+          "name": "美国直邮",
+          "piclogo": "../../../static/image/tip6.png"
+        },
+        {
+          "name": "英国直邮",
+          "piclogo": "../../../static/image/tip7.png"
+        },
+        {
+          "name": "德国直邮",
+          "piclogo": "../../../static/image/tip8.png"
+        },
+        {
+          "name": "日本直邮",
+          "piclogo": "../../../static/image/tip9.png"
+        },
+        {
+          "name": "保税仓极速达",
+          "piclogo": "../../../static/image/tip10.png"
+        }
+      ]
+    }
+  ]
+}

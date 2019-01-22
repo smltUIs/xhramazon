@@ -1,0 +1,116 @@
+{
+  "species": [
+    {
+      "title" : "鞋靴",
+      "products": [
+        {
+          "pic":"../../../static/image/xiezi01.png"
+        },
+        {
+          "pic":"../../../static/image/xiezi02.png"
+        },
+        {
+          "pic":"../../../static/image/xiezi03.png"
+        },
+        {
+          "pic":"../../../static/image/xiezi04.png"
+        },
+        {
+          "pic":"../../../static/image/xiezi05.png"
+        }
+      ]
+    },
+    {
+      "title" : "服饰箱包",
+      "products": [
+        {
+          "pic":"../../../static/image/kuzi01.png"
+        },
+        {
+          "pic":"../../../static/image/kuzi02.png"
+        },
+        {
+          "pic":"../../../static/image/kuzi03.png"
+        },
+        {
+          "pic":"../../../static/image/kuzi04.png"
+        },
+        {
+          "pic":"../../../static/image/kuzi05.png"
+        }
+      ]
+    },
+    {
+      "title" : "各护健康",
+      "products": [
+        {
+          "pic":"../../../static/image/yanj01.png"
+        },
+        {
+          "pic":"../../../static/image/yanj02.png"
+        },
+        {
+          "pic":"../../../static/image/yanj03.png"
+        },
+        {
+          "pic":"../../../static/image/yanj04.png"
+        },
+        {
+          "pic":"../../../static/image/yanj05.png"
+        }
+      ]
+    },
+    {
+      "title" : "面部护肤",
+      "products": [
+        {
+          "pic":"../../../static/image/mei01.png"
+        },
+        {
+          "pic":"../../../static/image/mei02.png"
+        },
+        {
+          "pic":"../../../static/image/mei03.png"
+        },
+        {
+          "pic":"../../../static/image/mei04.png"
+        },
+        {
+          "pic":"../../../static/image/mei05.png"
+        },
+        {
+          "pic":"../../../static/image/mei06.png"
+        },
+        {
+          "pic":"../../../static/image/mei07.png"
+        },
+        {
+          "pic":"../../../static/image/mei08.png"
+        }
+      ]
+    },
+    {
+      "title" : "Kindle电子书",
+      "products": [
+        {
+          "pic":"../../../static/image/book01.png"
+        },
+        {
+          "pic":"../../../static/image/book02.png"
+        },
+        {
+          "pic":"../../../static/image/book03.png"
+        },
+        {
+          "pic":"../../../static/image/book04.png"
+        },
+        {
+          "pic":"../../../static/image/book05.png"
+        },
+        {
+          "pic":"../../../static/image/book06.png"
+        }
+      ]
+    }
+  ]
+}

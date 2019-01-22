@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "propic": "../../static/image/cup01.jpeg",
+      "hotpro": "最畅销商品",
+      "title": "THERMOS膳魔师 JNL-502-500ml 黑(保税仓发货)(包邮包税)",
+      "tit": "THERMOS膳魔师",
+      "price": "149.00",
+      "cus": "保税仓跨品类rice两件八折"
+    },
+    {
+      "propic": "../../static/image/cup02.jpeg",
+      "hotpro": "最畅销商品",
+      "title": "THERMOS膳魔师 JNL-502-500ml 黑(保税仓发货)(包邮包税)",
+      "tit": "THERMOS膳魔师",
+      "price": "149.00",
+      "cus": "保税仓跨品类rice两件八折"
+    },
+    {
+      "propic": "../../static/image/cup04.jpeg",
+      "hotpro": "最畅销商品",
+      "title": "THERMOS膳魔师 JNL-502-500ml 黑(保税仓发货)(包邮包税)",
+      "tit": "THERMOS膳魔师",
+      "price": "149.00",
+      "cus": "保税仓跨品类rice两件八折"
+    },
+    {
+      "propic": "../../static/image/cup05.jpeg",
+      "hotpro": "最畅销商品",
+      "title": "THERMOS膳魔师 JNL-502-500ml 黑(保税仓发货)(包邮包税)",
+      "tit": "THERMOS膳魔师",
+      "price": "149.00",
+      "cus": "保税仓跨品类rice两件八折"
+    }
+  ]
+}
